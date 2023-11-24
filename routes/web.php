@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return 'Dit is een test';
+    return 'Dit is een test x2';
 });
 
 Route::get('/docs', function () {
